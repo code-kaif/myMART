@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "company": "Sony",
+    "location": "Mumbai, India",
+    "price": "₹1,999 per piece",
+    "image": "/blutooth.png",
+    "description": "Experience high-quality sound with Sony's Wireless Bluetooth Headphones, featuring noise cancellation and deep bass."
+  },
+  {
+    "id": 2,
+    "name": "Smart LED TV 32 inch",
+    "company": "Samsung",
+    "location": "Delhi, India",
+    "price": "₹14,999 per unit",
+    "image": "/smarttv.jpg",
+    "description": "Samsung's 32-inch Smart LED TV with HD resolution and built-in apps for an immersive viewing experience."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Laptop - i7, 16GB RAM",
+    "company": "HP",
+    "location": "Bangalore, India",
+    "price": "₹74,999 per piece",
+    "image": "/laptop.jpg",
+    "description": "Powerful gaming laptop with Intel i7 processor, 16GB RAM, and NVIDIA graphics for ultimate gaming performance."
+  },
+  {
+    "id": 4,
+    "name": "Men's Running Shoes",
+    "company": "Nike",
+    "location": "Chennai, India",
+    "price": "₹3,499 per pair",
+    "image": "/shoes.jpg",
+    "description": "Lightweight and comfortable Nike running shoes designed for high performance and durability."
+  },
+  {
+    "id": 5,
+    "name": "Smartphone 5G 128GB",
+    "company": "OnePlus",
+    "location": "Hyderabad, India",
+    "price": "₹29,999 per piece",
+    "image": "/mobile.jpg",
+    "description": "OnePlus 5G smartphone with 128GB storage, AMOLED display, and a 48MP camera for stunning photos."
+  },
+  {
+    "id": 6,
+    "name": "Wooden Office Chair",
+    "company": "Urban Ladder",
+    "location": "Pune, India",
+    "price": "₹5,499 per piece",
+    "image": "/chair.jpg",
+    "description": "Ergonomic wooden office chair designed for comfort and elegance, perfect for long working hours."
+  }
+]
