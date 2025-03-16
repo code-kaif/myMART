@@ -11,7 +11,7 @@ const Category = () => {
         {/* Large Image */}
         <div className="w-full lg:w-1/4">
           <img
-            src="/public/medicaleq.jpg"
+            src="/medicaleq.jpg"
             alt="Hospital Equipment"
             className="w-full h-auto rounded-lg shadow-md"
           />
@@ -33,12 +33,12 @@ const Category = () => {
       <div className="grid grid-cols-2 sm:grid-cols-3 gap-6 mt-8">
         {/* Single Item */}
         {[
-          { title: "Medical Ventilators", image: "/public/ventilator.jpg" },
-          { title: "Oxygen Cylinder", image: "/public/o2cylinder.jpg" },
-          { title: "Patient Handling Equipment", image: "/public/sm.jpg" },
-          { title: "Biochemistry Analyzer", image: "/public/ba.jpg" },
-          { title: "Patient Monitoring Systems", image: "/public/pms.jpg" },
-          { title: "X Ray Machine", image: "/public/xray.jpg" },
+          { title: "Medical Ventilators", image: "/ventilator.jpg" },
+          { title: "Oxygen Cylinder", image: "/o2cylinder.jpg" },
+          { title: "Patient Handling Equipment", image: "/sm.jpg" },
+          { title: "Biochemistry Analyzer", image: "/ba.jpg" },
+          { title: "Patient Monitoring Systems", image: "/pms.jpg" },
+          { title: "X Ray Machine", image: "/xray.jpg" },
         ].map((item, index) => (
           <div
             key={index}
